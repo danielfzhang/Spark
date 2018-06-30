@@ -10,3 +10,5 @@ Given a threshold, the program outputs all pairs of record with similarity great
 
 ### Format of Input Files:
 `index element1 element2 element...`
+
+### Optimize the performance with PPjoin and Transformations selection
